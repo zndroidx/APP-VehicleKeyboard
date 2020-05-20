@@ -1,0 +1,3 @@
+rootProject.name='APP-VehicleKeyboard'
+include ':app'
+include ':lib_VehicleKeyboard'
