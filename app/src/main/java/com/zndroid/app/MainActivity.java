@@ -1,8 +1,8 @@
 package com.zndroid.app;
 
-import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 
 import com.zndroid.keyboard.OnInputChangedListener;

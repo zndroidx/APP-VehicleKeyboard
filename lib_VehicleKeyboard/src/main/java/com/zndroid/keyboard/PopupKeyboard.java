@@ -4,9 +4,8 @@ import android.app.Activity;
 import android.app.Dialog;
 import android.content.Context;
 import android.content.res.ColorStateList;
+import android.support.annotation.ColorInt;
 import android.view.Window;
-
-import androidx.annotation.ColorInt;
 
 import com.zndroid.keyboard.engine.KeyboardEngine;
 import com.zndroid.keyboard.view.InputView;

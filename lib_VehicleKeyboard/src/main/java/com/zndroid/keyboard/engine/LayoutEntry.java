@@ -1,8 +1,6 @@
 package com.zndroid.keyboard.engine;
 
-
-import androidx.annotation.NonNull;
-
+import android.support.annotation.NonNull;
 import java.util.ArrayList;
 import java.util.Collection;
 
