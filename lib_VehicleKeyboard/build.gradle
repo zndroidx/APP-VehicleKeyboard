@@ -1,5 +1,8 @@
 apply plugin: 'com.android.library'
 
+apply plugin:'maven'
+apply from:'./config.gradle'
+
 android {
     compileSdkVersion 28
     buildToolsVersion "28.0.0"
